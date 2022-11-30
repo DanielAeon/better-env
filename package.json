@@ -1,0 +1,32 @@
+{
+  "name": "better-env",
+  "version": "1.0.0",
+  "description": "Better handling for environment variables for any Node or React application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAeon/better-env.git"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "variable",
+    "deployment"
+  ],
+  "author": "Daniel Kelder",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DanielAeon/better-env/issues"
+  },
+  "homepage": "https://github.com/DanielAeon/better-env#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "@typescript-eslint/eslint-plugin": "^5.45.0",
+    "@typescript-eslint/parser": "^5.45.0",
+    "eslint": "^8.28.0",
+    "typescript": "^4.9.3"
+  }
+}
