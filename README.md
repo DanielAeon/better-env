@@ -1,2 +1,2 @@
 # better-env
-Better handling for rnvironment variables for any Node or React application
+Better handling for  environment variables for any Node or React application
