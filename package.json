@@ -4,6 +4,7 @@
   "description": "Better handling for environment variables for any Node or React application",
   "main": "index.js",
   "scripts": {
+    "build": "rimraf ./build && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
